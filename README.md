@@ -8,7 +8,9 @@ Ett komplement till "man"-kommandot.
 Scriptet körs från en terminal med: visa + attribut te x: "visa pacman"
 
 ## Installation
-Scriptet placeras i t ex "~/.local/bin/visa" med "cp visa /.local/bin/"
+**NOT** Kontrollera sökvägarna vid test av scriptet.
+
+Scriptet placeras i t ex "~/.local/bin/visa" med "cp visa "~/.local/bin/"
 Gör det exekverbart med "chmod +x ~/.local/bin/visa"
 
 Manualerna placeras i ~/.manualer med "mkdir ~/.manaualer"
