@@ -24,13 +24,12 @@ Utbyggbart genom att placera "min_manual.text" i "~/.manualer"
 Jag har valt att **inte** använda något IDE som pyCharm eller VSCode för detta
 
 
-### OS: Arch Linux
-### Python: 3.11.8 
+**OS:** Arch Linux
+**Python:** 3.11.8 
 
-**Dokumentation:** https://docs.python.org/3/contents.html
-**Idéer:** https://www.w3schools.com/python/
-**Hands-on kod för felhantering:** Copilot
+- **Dokumentation:** https://docs.python.org/3/contents.html
+- **Idéer:** https://www.w3schools.com/python/
+- **Hands-on kod för felhantering:** Copilot
 
---
-Programvara: **Jupyter** - för tester
-Programvara: **Mousepad** - simpel texteditor som följer med XFCE
+- Programvara: **Jupyter** - för tester
+- Programvara: **Mousepad** - simpel texteditor som följer med XFCE
