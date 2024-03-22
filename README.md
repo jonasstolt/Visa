@@ -3,7 +3,8 @@
 ## Beskrivning:
 "Visa" är skriven i Python som en snabbguide till kommandon och dess attribut. 
 Ett komplement till "man"-kommandot. 
-*Scriptet är en del i ett lärande och skall inte ses som något annat.*
+
+*Scriptet är en del av ett lärande och skall inte ses som något annat.*
 
 ## Användning:
 Scriptet körs från en terminal med: visa + attribut te x: "visa pacman"
