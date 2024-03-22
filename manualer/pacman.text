@@ -1,0 +1,26 @@
+
+--------------------------------------------------------------------------------
+| Command                        | Description                                 |
+---------------------------------|---------------------------------------------|
+| sudo pacman -S                 | Install packages from the repositories      |
+| sudo pacman -U                 | Install a package from a local file         |
+| sudo pacman -S --asdeps        | Install pkgs as dependencies of another pkg |
+| sudo pacman -Sc                | Clean out old and unused caches and packages|
+| pacman -Qi                     | Display infor about a pkg in the local db   |
+| pacman -Qs                     | Search for packages in the local database   |
+| sudo pacman -Scc               | Remove all files from the cache             |
+| sudo pacman -Qdt               | List all orphaned packages                  |
+| sudo pacman -Syy               | Force refresh of all pks after update mirror|
+| sudo pacman -R                 | Remove pkg, keeping its settings and depends|
+| sudo pacman -Rns               | Remove pkg, incl its settings and depends   |
+| pacman -Si                     | Display information about a pgk in the repos|
+| pacman -Ss                     | Search for packages in the repositories     |
+| sudo pacman -Rs $(pacman -Qtdq)| Delete all orphaned packages                |
+| sudo pacman -Sy                | Upd and refresh local pkgs, ABS and AUR db  |
+| sudo pacman -Syu               | Sync with repositories before upgrading pkgs|
+| sudo pacman -Fy                | Download fresh package db:s from the server |
+| pacman -F                      | Search pkg file names for matching strings  |
+| pacman -Ql                     | List files in a package                     |
+| pacman -Qo                     | Show which package owns a file              |
+| sudo pacman -Syu               | Sync with repositories before upgrading pkgs|
+--------------------------------------------------------------------------------

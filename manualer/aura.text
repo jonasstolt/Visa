@@ -1,0 +1,11 @@
+
+-------------------------|------------------------------------------------------
+| Command                | Description                                         |
+|------------------------|-----------------------------------------------------|
+| sudo aura -A <package> | Install an AUR package                              |
+| sudo aura -Au          | Upgrade all installed AUR packages                  |
+| sudo aura -Akuax       | Author's favourite                                  |
+| sudo aura -Ai <package>| Look up information on an AUR package               |
+| sudo aura -As <regex>  | Search the AUR via a regex                          |
+| sudo aura -Ap <package>| Display a package's PKGBUILD                        |
+| sudo aura -Ad <package>| List a package's dependencies                       |

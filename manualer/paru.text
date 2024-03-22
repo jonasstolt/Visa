@@ -1,0 +1,10 @@
+
+--------------------------------------------------------------------------------
+| Command            | Description                                             |
+|--------------------|---------------------------------------------------------|
+| paru foo           | Search/install from the repos and the AUR               |
+| paru -Syu          | Update pkg list and upgrade all  installed repo and AUR |
+| paru -Sua          | Update all currently installed AUR packages             |
+| paru -S            | Installs package from the repos or the AUR              |
+| paru -Ss           | Searches for package foo on the repos or the AUR        |                  
+| paru -Si           | Gets information about package from the repos or the AUR|

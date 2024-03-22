@@ -1,0 +1,21 @@
+
+--------------------------------------------------------------------------------
+| Command               | Description                                          |
+|-----------------------|------------------------------------------------------|
+| yay -Pg               | Print current configuration                          |
+| yay -Sc               | Clean out old and unused caches and packages         |
+| yay -Scc              | Remove all files from the cache                      |
+| yay -S                | Install packages from the repositories               |
+| yay -U                | Install a package from a local file                  |
+| yay -S --asdeps       | Install packages as dependencies of another package  |
+| yay -Qi               | Display information about a package in the local db  |
+| yay -Qs               | Search for packages in the local database            |
+| yay -Qe               | List installed packages including from AUR           |
+| yay -Syy              | Force refresh of all pkg lists after upd mirrorlist  |
+| yay -Qtd              | Remove orphans using yay                             |
+| yay -R                | Remove packages keeping its settings and dependencies|
+| yay -Rns              | Remove packages, incl. its settings and dependencies |
+| yay -Si               | Display information about a package in the repos     |
+| yay -Ss               | Search for packages in the repositories              |
+| yay -Sy               | Update and refresh local package, ABS and AUR db     |
+| yay -Syu              | Sync with repositories before upgrading packages     |
